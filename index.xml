@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>珍惜</title>
+    <link>https://sheldonxiun.github.io/</link>
+    <description>Recent content on 珍惜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 18 Nov 2019 14:18:04 +0800</lastBuildDate>
+    
+	<atom:link href="https://sheldonxiun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>https://sheldonxiun.github.io/about/</link>
+      <pubDate>Mon, 18 Nov 2019 14:18:04 +0800</pubDate>
+      
+      <guid>https://sheldonxiun.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>存档</title>
+      <link>https://sheldonxiun.github.io/archives/</link>
+      <pubDate>Mon, 18 Nov 2019 14:17:39 +0800</pubDate>
+      
+      <guid>https://sheldonxiun.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
